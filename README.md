@@ -1,2 +1,1 @@
-# tycc
-Hey
+Author Aditya gaunadar
